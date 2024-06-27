@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronforrestron24
 - 👀 I’m interested in ... learning web development
-- 🌱 I’m currently learning ...html,ccs and java.
+- 🌱 I’m currently learning ...html,ccs and javascript.
 - 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ...https://twitter.com/spacecongee
 
