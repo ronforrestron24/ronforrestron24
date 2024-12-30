@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ron Forrest!
+# 👋 Hello, I'm Ron Manguerra!
 
 Welcome to my GitHub profile! I'm an aspiring **web developer** passionate about learning and growing my skills in **HTML**, **CSS**, and **JavaScript**. 🚀
 
