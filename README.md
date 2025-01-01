@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ron Manguerra!
 
-Welcome to my GitHub profile! I'm an aspiring **web developer** passionate about learning and growing my skills in **HTML**, **CSS**, and **JavaScript**. 🚀
+Welcome to my GitHub profile! I'm an aspiring **web developer** passionate about learning and growing my skills in MERN stack as a fullstack web developer. 🚀
 
 ---
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm an aspiring **web developer** passionate about
 
 ## 🌱 Currently Learning
 - **HTML**: Crafting structured and semantic web pages.
-- **CSS**: Adding style and flair to my designs.
+- **CSS**: Adding style and responsiveness to my web applications.
 - **JavaScript**: Making websites dynamic and interactive.
 
 ---
