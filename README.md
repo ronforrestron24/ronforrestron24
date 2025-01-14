@@ -15,6 +15,10 @@ Welcome to my GitHub profile! I'm an aspiring **web developer** passionate about
 - **HTML**: Crafting structured and semantic web pages.
 - **CSS**: Adding style and responsiveness to my web applications.
 - **JavaScript**: Making websites dynamic and interactive.
+- React: front-end library for single page web apps
+- NodeJs: for backend
+- ExpressJs:for backend
+- MongoDB: for database
 
 ---
 
